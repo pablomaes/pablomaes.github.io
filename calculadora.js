@@ -121,7 +121,7 @@ function initApp() {
     calcularBtn.addEventListener('click', () => {
         const zona = zonaSelect.value;
         const metros = parseFloat(metrosInput.value);
-
+        event.preventDefault(); // Previene el envío del formulario
         // Calcular los resultados y almacenarlos en resultadosGlobales
         resultadosGlobales = calcular(zona, metros);
         console.log('Resultados:', resultadosGlobales);
