@@ -1,0 +1,39 @@
+ZONA,FOS PB,FOS Planta Alta,FOT max total,FIS ,Índice de Perm.,TUE,TUE C/sc cada X mts2 de terreno ,TUE S/sc cada X mts2 de terreno,FDH Máximo ,Altura máxima (m),Altura máxima con retiro voluntario de frente (m),Plano Límite (m),Plano límite con retiro voluntario de frente (m),Retiro de Frente ,Retiro Lateral ,Frente mínimo parcela (m),Sup mínima parcela
+Z1-Comercio,"0,75","0,65","3,00","0,70",NO aplica,1 unidad funcional de vivienda cada 27 m2 de terreno ,"27,00","27,00",Alineación Continua en Planta Baja,"17,00","20,00","23,00","26,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","600,00"
+Z1-Residencial,"0,75","0,65","3,00","0,70",NO aplica,1 unidad funcional de vivienda cada 27 m2 de terreno ,"27,00","27,00",Alineación Continua en Planta Baja,"17,00","20,00","23,00","26,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","600,00"
+Z1 -Cocheras,"0,80",,"3,00","0,70",NO aplica,1 unidad funcional de vivienda cada 27 m2 de terreno ,"27,00","27,00",Alineación Continua en Planta Baja,"17,00","20,00","23,00","26,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","600,00"
+Z2-Comercio,"0,70","0,65","3,00","0,70",75%,1 unidad funcional de vivienda cada 20 m2 de terreno ,"20,00","20,00",Alineación Continua en Planta Baja,"20,00","23,00","26,00","29,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","600,00"
+Z2-Residencial,"0,70","0,60","3,00","0,70",75%,1 unidad funcional de vivienda cada 20 m2 de terreno ,"20,00","20,00",Alineación Continua en Planta Baja,"20,00","23,00","26,00","29,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","600,00"
+Z2-Cocheras,"0,80",,"3,00","0,70",75%,1 unidad funcional de vivienda cada 20 m2 de terreno ,"20,00","20,00",Alineación Continua en Planta Baja,"20,00","23,00","26,00","29,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","600,00"
+Z3  ,"0,60","0,60","2,00","0,70",75%,1 unidad funcional de vivienda cada 30 m2 de terreno ,"30,00","30,00",MM ,"14,00","17,00","20,00","23,00",No obligatorio Retiro voluntario: no menor a 3 m al menos a partir del primer piso e incrementa altura. ,No obligatorio,"12,00","300,00"
+Avenidas sobre Z3-Comercio,"0,70","0,65","2,20","0,70",75%,1 unidad funcional de vivienda cada 30 m2 de terreno ,"30,00","30,00",Alineación Continua en Planta Baja,"17,00","20,00","23,00","26,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","300,00"
+Avenidas sobre Z3-Residencial,"0,70","0,60","2,20","0,70",75%,1 unidad funcional de vivienda cada 30 m2 de terreno ,"30,00","30,00",Alineación Continua en Planta Baja,"17,00","20,00","23,00","26,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","300,00"
+Avenidas sobre Z3-Cocheras,"0,80",,"2,20","0,70",75%,1 unidad funcional de vivienda cada 30 m2 de terreno ,"30,00","30,00",Alineación Continua en Planta Baja,"17,00","20,00","23,00","26,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"12,00","300,00"
+Z4,"0,60","0,60","1,40","0,70",75%,"Con serv cloacal: 1 UF de viv cada 50 m2 de terreno 
+Sin serv cloacal: 1 UF de viv cada 125 m2 de terreno ","50,00","125,00",MM ,"11,00",,"16,00",,No obligatorio ,No obligatorio ,"11,00","250,00"
+Avenidas sobre Z4,"0,60","0,60","1,60","0,70",75%,"Con serv cloacal: 1 UF de viv cada 50 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 125 m2 de terreno. ","50,00","125,00",Alineación Continua en Planta Baja,"11,00","14,00","16,00","20,00","No obligatorio Retiro voluntario: no menor a 3 m, solo aplicable a plantas altas al menos a partir del segundo piso e incrementa altura. ",No obligatorio,"11,00","250,00"
+Z5,"0,60","0,60","1,00","0,70",75%,"Con serv cloacal: 1 UF de viv cada 100 m2 de terreno. 
+Sin serv cloacal: 1 UF de viv cada 150 m2 de terreno.","100,00","150,00",MM ,"11,00",,"16,00",,No obligatorio ,No obligatorio ,"12,00","300,00"
+Avenidas sobre Z5,"0,60","0,60","1,50","0,70",75%,"Con serv cloacal: 1 UF de viv cada 100 m2 de terreno. 
+Sin serv cloacal: 1 UF de viv cada 150 m2 de terreno.","100,00","150,00",MM ,"14,00",,"20,00",,No obligatorio ,No obligatorio ,"12,00","300,00"
+Z6-Comercio,"0,70","0,60","1,40","0,70",75%,"Con serv cloacal: 1 UF de viv cada 80 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 120 m2 de terreno. ","80,00","120,00",MM ,"11,00",,"16,00",,No obligatorio ,No obligatorio ,"11,00","250,00"
+Z6-Residencial,"0,70","0,60","1,40","0,70",75%,"Con serv cloacal: 1 UF de viv cada 80 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 120 m2 de terreno. ","80,00","120,00",MM ,"11,00",,"16,00",,No obligatorio ,No obligatorio ,"11,00","250,00"
+Z6-Cocheras,"0,80","0,60","1,40","0,70",75%,"Con serv cloacal: 1 UF de viv cada 80 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 120 m2 de terreno. ","80,00","120,00",MM ,"11,00",,"16,00",,No obligatorio ,No obligatorio ,"11,00","250,00"
+Avenidas sobre Z6,"0,60","0,60","1,50","0,70",75%,"Con serv cloacal: 1 UF de viv cada 80 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 120 m2 de terreno.  ","80,00","120,00",MM ,"14,00",,"20,00",,No obligatorio ,No obligatorio ,"11,00","250,00"
+Chapuy y Sta Fe sobre Z6,"0,60","0,60","2,00","0,70",75%,"Con serv cloacal: 1 UF de viv cada 50 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 120 m2 de terreno.","50,00","120,00",MM ,"14,00","17,00","20,00","23,00",Cap V ,No obligatorio ,"15,00","250,00"
+Z8,"0,60","0,60","1,00",,,"Con serv cloacal: 1 UF de viv cada 100 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 150 m2 de terreno.","100,00","150,00",MM ,"11,00",,"16,00",,No obligatorio ,No obligatorio ,"11,00","300,00"
+Avenidas sobre Z8,"0,60","0,60","1,20",,,"Con serv cloacal: 1 UF de viv cada 100 m2 de terreno.
+Sin serv cloacal: 1 UF de viv cada 150 m2 de terreno.","100,00","150,00",MM ,"14,00",,"20,00",,No obligatorio ,No obligatorio ,"11,00","300,00"
+Z9,"0,60","0,60","2,00",,,"Con serv cloacal: 1 UF de viv cada 50 m2 de terreno.
+Sin serv cloacal: 1 UF por parcela como uso complementario a la actividad principal.","50,00","50,00",MM ,"23,00",,"29,00",,Según lo dispuesto en Secc 2 – Cap V ,No obligatorio ,"15,00","600,00"
+Z10,"0,60","0,60","1,50",,,1 UF de viv por parcela como uso complementario a la actividad principal ,,,MA ,"15,00",,"20,00",,5 m ,3 m ,"20,00","1000,00"
+Z12,"0,30",,"0,50","0,80",70%,1 UF de viv cada 500 m2 de terreno ,"500,00","500,00",MA ,"7,00",,"11,50",,3 m ,3 m bilateral ,"18,00","1000,00"
+Z13,"0,30",,"0,40","0,80",70%,1 UF de viv cada 700 m2 de terreno ,"700,00","700,00",MA ,"7,00",,"11,50",,3 m ,3 m bilateral ,"30,00","1500,00"
+Z14,"0,20",,"0,25","0,80",70%,1 UF de viv cada 800 m2 de terreno ,"800,00","800,00",MA ,"7,00",,"11,50",,5 m ,5 m bilateral ,"40,00","2500,00"
